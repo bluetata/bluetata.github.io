@@ -4,9 +4,9 @@
   <subtitle>技术只是解决问题的选择，而不是解决问题的根本!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://bluetata.com.cn/"/>
   <updated>2017-02-28T09:06:24.593Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://bluetata.com.cn/</id>
   
   <author>
     <name>Sekito Lv</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>优秀程序员因何而优秀？</title>
-    <link href="http://yoursite.com/2017/02/28/the%20reasion%20of%20programer/"/>
-    <id>http://yoursite.com/2017/02/28/the reasion of programer/</id>
+    <link href="http://bluetata.com.cn/2017/02/28/the%20reasion%20of%20programer/"/>
+    <id>http://bluetata.com.cn/2017/02/28/the reasion of programer/</id>
     <published>2017-02-28T09:02:44.259Z</published>
     <updated>2017-02-28T09:06:24.593Z</updated>
     
@@ -53,7 +53,7 @@
     </summary>
     
     
-      <category term="程序人生" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+      <category term="程序人生" scheme="http://bluetata.com.cn/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
     
   </entry>
   
