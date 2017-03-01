@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bluetata.com.cn/"/>
-  <updated>2017-02-28T09:06:24.593Z</updated>
+  <updated>2017-02-28T17:19:21.561Z</updated>
   <id>http://bluetata.com.cn/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java相比Python3有哪些优势？</title>
+    <link href="http://bluetata.com.cn/2017/03/01/java%20vs%20python3/"/>
+    <id>http://bluetata.com.cn/2017/03/01/java vs python3/</id>
+    <published>2017-02-28T17:04:56.612Z</published>
+    <updated>2017-02-28T17:19:21.561Z</updated>
+    
+    <content type="html"><![CDATA[<p>事情是这样的，这个问题你要问我的话，答案肯定是这样的“Java是最好的语言，不解释”。但为了世界和平，我们抱着科学严谨的态度来深入探讨一下Java和Python的那些事儿~<strong>强调文字</strong></p>
+<p>在项目类型上，Java更适合大型项目，易于管理和维护；Python3更适合写一些小项目，便于更新迭代。在大项目上的应用，除开那种密集计算型的项目，我敢说Java世界上最好的语言！一般用户在百万+千万不到的时候，并发变高、内存不够，但是优化一下好像还可以接着用，此时Java的优势就显现出来了。虽然Python可以拓展C语言，但终究比较麻烦。这时jvm的作用就要体现了！找个熟悉jvm的大牛，优化效率就能飙升啊~</p>
+<p>如果是采用面向对象方式开发软件，Java/C#之类的事更加适合的语言选择。特别是一些大规模且逻辑复杂、处理流程多样化的软件系统，从分析、设计、实现到面向对象贯穿下来，动态类型的语言显然不是最好的选择，这种语言的灵活性在这种情境下带来的更多可能是麻烦。<strong>强调文字</strong></p>
+<p>在性能上，我说Java的性能比Python的性能好应该没有人打我吧，而且又是多线程~并且Java的库又多又是纯字节，你说我有什么理由不爱它？还有Java没有2、3、4啊！！</p>
+<p>最后，我怎么也得夸一下我Java好，你们都听好了！我们写Java的人多啊！！！怎么，爱我你怕了吗~~</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;事情是这样的，这个问题你要问我的话，答案肯定是这样的“Java是最好的语言，不解释”。但为了世界和平，我们抱着科学严谨的态度来深入探讨一下Java和Python的那些事儿~&lt;strong&gt;强调文字&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在项目类型上，Java更适合大型项目，易于管
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://bluetata.com.cn/tags/Java/"/>
+    
+      <category term="逗比程序员" scheme="http://bluetata.com.cn/tags/%E9%80%97%E6%AF%94%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title>优秀程序员因何而优秀？</title>
