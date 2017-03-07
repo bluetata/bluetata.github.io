@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bluetata.com.cn/"/>
-  <updated>2017-03-06T06:32:56.170Z</updated>
+  <updated>2017-03-06T06:34:57.825Z</updated>
   <id>http://bluetata.com.cn/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://bluetata.com.cn/2017/03/05/Shift_JIS%E3%80%81CP932%E3%80%81MS932%E3%80%81Windows-31J/"/>
     <id>http://bluetata.com.cn/2017/03/05/Shift_JIS、CP932、MS932、Windows-31J/</id>
     <published>2017-03-04T16:52:03.482Z</published>
-    <updated>2017-03-06T06:32:56.170Z</updated>
+    <updated>2017-03-06T06:34:57.825Z</updated>
     
     <content type="html"><![CDATA[<p>　　Windows標準の文字コードはShift_JISではなく、Windows-31Jです。<br>　　それらの違いやCP932、MS932といった用語もあわせて整理してみましょう。</p>
 <p>　　まずは<strong>Shift_JIS</strong>。<br>　　これは日本語の文字集合を符号化する文字符号化方式のうちの一つです。<br>　　Microsoftにより、MS-DOSの標準日本語コードとして採用され、<strong>CP932</strong>という管理番号を与えられるとともに独自の拡張が行われました。</p>
